@@ -1,0 +1,6 @@
+@THITHUGK_02_NCH_CNTTK23_HostAddress = http://localhost:5175
+
+GET {{THITHUGK_02_NCH_CNTTK23_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

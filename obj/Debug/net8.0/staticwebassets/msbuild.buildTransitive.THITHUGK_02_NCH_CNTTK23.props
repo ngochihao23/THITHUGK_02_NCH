@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\THITHUGK_02_NCH_CNTTK23.props" />
+</Project>
